@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fb2effe4-fd08-4a2f-9000-ef70e30eb969)
+![image](https://github.com/user-attachments/assets/09e3ce65-ac28-4633-a438-6692a978cfb7)
 
                                                            
 # Kriyaetive Verse  
