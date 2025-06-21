@@ -1,23 +1,32 @@
-![image](https://github.com/user-attachments/assets/09e3ce65-ac28-4633-a438-6692a978cfb7)
+## Kriyaetive
 
-                                                           
-# Kriyaetive Verse  
-#### Inspiring Creations, Elevating Minds!
+**Kriyaetive** is an independent research & technology lab building open tools for creators, communities, and the future of digital collaboration.
 
-### Empowering Creativity Through Innovation!
-Welcome to Kriyaetive Verse, a technology lab dedicated to developing innovative products that foster creativity and collaboration. Our mission is to provide tools that inspire and empower creators worldwide.
+We design and develop next-generation systems that prioritize **creativity**, **autonomy**, and **accessibility**. From capsule-based protocols to decentralized computing platforms, our work sits at the intersection of engineering, art, and systems thinking.
 
-- Research and development of innovative products.
-- Fostering collaboration and creativity.
-- Empowering creators with cutting-edge technology.
 
-## Overview
-**Kriyaetive** is a technology startup lab dedicated to pushing the boundaries of innovation. We create cutting-edge tools designed to empower creators, learners, and organizations alike. Our focus is on building products that make creativity, collaboration, and productivity seamless and accessible.
+### What We Believe
 
-As a forward-thinking company, we are committed to transforming how people work and interact with technology. Whether it’s enhancing creative workflows, fostering learning communities, or driving organizational success, Kriyaetive is at the forefront of shaping the future.
+* **Creativity is foundational** — Tools should amplify human imagination, not constrain it.
+* **Openness matters** — Open protocols, open research, and open collaboration enable resilience and trust.
+* **Local-first, network-aware** — Our designs respect user sovereignty while scaling organically through peer networks.
 
-Our journey is just beginning, and we’re excited to continue developing solutions that inspire and empower our users. Join us as we innovate, explore, and bring new ideas to life.
 
-**Our Vision:** To be a global leader in creating technology that unlocks creative potential and drives digital transformation.
+### What We’re Building
 
-**Our Mission:** To innovate at the intersection of technology and creativity, delivering intuitive and impactful tools that enhance productivity and collaboration.
+* **Kriyo** — A decentralized framework for capsule execution, secure state sync, and peer-to-peer trust networks.
+* **Capsules** — Cryptographically signed logic units that power applications without centralized servers.
+* **Tools & Infrastructure** — From CLI utilities to storage layers, everything is built with modularity and openness in mind.
+
+
+### Vision
+
+To shape a future where creative and computational freedom is available to everyone — not locked behind platforms.
+
+
+### Mission
+
+To build intuitive, interoperable, and ethical tools that empower people to create, collaborate, and thrive in a decentralized world.
+
+
+> Join us on this journey — contributing code, feedback, or ideas. We're building in the open and always looking for thoughtful collaborators.
