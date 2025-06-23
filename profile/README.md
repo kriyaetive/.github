@@ -1,32 +1,47 @@
 ## Kriyaetive
 
-**Kriyaetive** is an independent research & technology lab building open tools for creators, communities, and the future of digital collaboration.
+Kriyaetive is an independent research and technology lab exploring open tools for creators, communities, and local-first systems.
 
-We design and develop next-generation systems that prioritize **creativity**, **autonomy**, and **accessibility**. From capsule-based protocols to decentralized computing platforms, our work sits at the intersection of engineering, art, and systems thinking.
+We design lightweight, decentralized frameworks that prioritize autonomy, collaboration, and creative freedom — building software that works with people, not around them.
 
+⸻
 
-### What We Believe
+✦ What We Believe
+	•	Creativity is foundational
+Tools should expand imagination — not narrow it.
+	•	Openness enables trust
+Open protocols and transparent development invite resilience, collaboration, and shared ownership.
+	•	Local-first, network-aware
+Systems should run on user devices and scale across peer networks — not rely on centralized platforms.
 
-* **Creativity is foundational** — Tools should amplify human imagination, not constrain it.
-* **Openness matters** — Open protocols, open research, and open collaboration enable resilience and trust.
-* **Local-first, network-aware** — Our designs respect user sovereignty while scaling organically through peer networks.
+⸻
 
+✦ What We’re Building
+	•	d-verse
+A modular, peer-to-peer framework for building local-first applications that work offline and sync across trusted peers.
+	•	Developer Tools
+Command-line utilities, interpreters, and libraries for executing logic, syncing state, and building networked applications without external dependencies.
+	•	Infrastructure experiments
+From embedded runtimes to lightweight messaging protocols — all designed for constrained, real-world environments.
 
-### What We’re Building
+⸻
 
-* **Kriyo** — A decentralized framework for capsule execution, secure state sync, and peer-to-peer trust networks.
-* **Capsules** — Cryptographically signed logic units that power applications without centralized servers.
-* **Tools & Infrastructure** — From CLI utilities to storage layers, everything is built with modularity and openness in mind.
+✦ Our Vision
 
+To help shape a digital future rooted in creativity, autonomy, and self-governance — not cloud lock-in or platform dependency.
 
-### Vision
+⸻
 
-To shape a future where creative and computational freedom is available to everyone — not locked behind platforms.
+✦ Our Mission
 
+To build intuitive, interoperable, and ethical tools that empower people to create, collaborate, and connect on their own terms.
 
-### Mission
+⸻
 
-To build intuitive, interoperable, and ethical tools that empower people to create, collaborate, and thrive in a decentralized world.
+We’re building in the open — and always looking for thoughtful collaborators.
+Whether it’s ideas, feedback, or code, we’d love to hear from you.
 
+⸻
 
-> Join us on this journey — contributing code, feedback, or ideas. We're building in the open and always looking for thoughtful collaborators.
+Let me know if you want this version tailored for a landing page, GitHub org, or about.md.
+
